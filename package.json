@@ -1,0 +1,24 @@
+{
+  "name": "fl",
+  "version": "1.0.0",
+  "description": "practicando con mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/florcondori/Sprint4-practicando-Mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "flor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florcondori/Sprint4-practicando-Mocha/issues"
+  },
+  "homepage": "https://github.com/florcondori/Sprint4-practicando-Mocha#readme"
+}
